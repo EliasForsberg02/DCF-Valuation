@@ -1,43 +1,44 @@
 # DCF Valuation
 
-Independent discounted cash flow valuation of Microsoft Corporation.
+## Overview
 
-## Objective
+This project presents a discounted cash flow (DCF) valuation conducted as part of the Career26 Investment Banking Accelerator.
 
-This project estimates the intrinsic value of Microsoft using a discounted cash flow methodology.
+The analysis applies fundamental valuation techniques to estimate the intrinsic value of a company based on projected future free cash flows.
 
 ## Methodology
 
-The model includes:
+The valuation incorporates:
 
 - Historical financial analysis
-- Revenue and operating margin forecasts
+- Revenue and profitability forecasts
 - Free cash flow projections
 - Weighted Average Cost of Capital (WACC)
-- Terminal value using the Gordon Growth Model
-- Enterprise value to equity value bridge
+- Terminal value calculation
+- Present value of forecast cash flows
+- Enterprise value and equity value
 - Sensitivity analysis
 
-## Key Outputs
+## Key Areas of Analysis
 
-| Metric | Base Case |
-|---|---:|
-| Enterprise Value | £X.Xbn |
-| Equity Value | £X.Xbn |
-| Implied Share Price | £XXX |
-| Current Share Price | £XXX |
-| Implied Upside/Downside | XX% |
+The project considers the relationship between operating performance, cash generation, discount rates and valuation outcomes.
 
-## Model Structure
+The accompanying report explains the assumptions, methodology and conclusions underlying the valuation.
 
-1. Historical financials
-2. Forecast assumptions
-3. Free cash flow
-4. WACC
-5. Terminal value
-6. Valuation
-7. Sensitivity analysis
+## Project Files
 
-## Limitations
+- `DCF-Valuation-Report.pdf` — Full valuation report and analysis
 
-The valuation is sensitive to assumptions regarding revenue growth, margins, WACC and terminal growth. This model represents independent financial analysis and is not investment advice.
+## Skills Demonstrated
+
+- Financial modelling
+- DCF valuation
+- Fundamental analysis
+- Financial statement analysis
+- Valuation methodology
+- Investment research
+- Excel-based financial analysis
+
+## Disclaimer
+
+This project is for educational and portfolio purposes only and does not constitute investment advice or a recommendation to buy or sell any security.
